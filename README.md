@@ -3,9 +3,6 @@ Gyeoul-kim/Gyeoul-kim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-⭐️ Age : 21
-⭐️ 나이 : 22세(2003년생)
-⭐️ Gender : Male
-⭐️ 성별 : 남자
-⭐️ Occupation : Student, Study Computer Engineering in Pai chai University
-⭐️ 소속 : 배재대학교 AI/SW 창의융합대학 소프트웨어공학부 컴퓨터공학 전공 
+⭐ 대한민국 대전광역시 서구에 위치한 배재대학교에서 컴퓨터공학을 전공하고 있는 후유라고 합니다 :) 기기를 이용한 업무 자동화(스마트팜, 공장 자동화 등)에 관심을 가지고 있습니다 :)
+
+⭐ I'm Huyu, majoring in computer engineering at Pai Chai University located in Seo-gu, Daejeon, Korea :) I'm interested in work automation(Smart Agriculture, Plant Automation)! glad to meet you :)
